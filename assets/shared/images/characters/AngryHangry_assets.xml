@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AngryHangry_assets.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Angry Hangry Idle Dance0000" x="0" y="0" width="643" height="760" frameX="-2" frameY="0" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0001" x="643" y="0" width="643" height="760" frameX="-2" frameY="0" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0002" x="643" y="0" width="643" height="760" frameX="-2" frameY="0" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0003" x="1286" y="0" width="650" height="760" frameX="-2" frameY="0" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0004" x="1286" y="0" width="650" height="760" frameX="-2" frameY="0" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0005" x="1936" y="0" width="650" height="760" frameX="-2" frameY="0" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0006" x="2586" y="0" width="663" height="759" frameX="-6" frameY="-1" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0007" x="3249" y="0" width="660" height="759" frameX="-9" frameY="-1" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0008" x="3909" y="0" width="677" height="747" frameX="-14" frameY="-13" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0009" x="4586" y="0" width="677" height="747" frameX="-14" frameY="-13" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0010" x="5263" y="0" width="674" height="749" frameX="-13" frameY="-11" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0011" x="5937" y="0" width="674" height="749" frameX="-13" frameY="-11" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0012" x="6611" y="0" width="672" height="756" frameX="-12" frameY="-4" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0013" x="7283" y="0" width="674" height="756" frameX="-10" frameY="-4" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0014" x="0" y="760" width="668" height="759" frameX="-5" frameY="-1" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0015" x="643" y="0" width="643" height="760" frameX="-2" frameY="0" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0016" x="643" y="0" width="643" height="760" frameX="-2" frameY="0" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0017" x="0" y="0" width="643" height="760" frameX="-2" frameY="0" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0018" x="668" y="760" width="639" height="760" frameX="-2" frameY="0" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0019" x="1307" y="760" width="639" height="760" frameX="-2" frameY="0" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0020" x="1307" y="760" width="639" height="760" frameX="-2" frameY="0" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0021" x="1946" y="760" width="637" height="759" frameX="-2" frameY="-1" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0022" x="2583" y="760" width="636" height="759" frameX="-3" frameY="-1" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0023" x="3219" y="760" width="626" height="746" frameX="-2" frameY="-14" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0024" x="3845" y="760" width="626" height="746" frameX="-2" frameY="-14" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0025" x="4471" y="760" width="628" height="752" frameX="-2" frameY="-8" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0026" x="5099" y="760" width="628" height="752" frameX="-2" frameY="-8" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0027" x="5727" y="760" width="635" height="755" frameX="-2" frameY="-5" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0028" x="6362" y="760" width="635" height="755" frameX="-2" frameY="-5" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Idle Dance0029" x="6997" y="760" width="639" height="757" frameX="0" frameY="-3" frameWidth="691" frameHeight="760"/>
+	<SubTexture name="Angry Hangry Right Pose0000" x="0" y="1520" width="584" height="754" frameX="-14" frameY="-1" frameWidth="610" frameHeight="755"/>
+	<SubTexture name="Angry Hangry Right Pose0001" x="584" y="1520" width="584" height="754" frameX="-14" frameY="-1" frameWidth="610" frameHeight="755"/>
+	<SubTexture name="Angry Hangry Right Pose0002" x="1168" y="1520" width="603" height="755" frameX="-3" frameY="0" frameWidth="610" frameHeight="755"/>
+	<SubTexture name="Angry Hangry Right Pose0003" x="1168" y="1520" width="603" height="755" frameX="-3" frameY="0" frameWidth="610" frameHeight="755"/>
+	<SubTexture name="Angry Hangry Right Pose0004" x="1771" y="1520" width="609" height="755" frameX="-1" frameY="0" frameWidth="610" frameHeight="755"/>
+	<SubTexture name="Angry Hangry Right Pose0005" x="1771" y="1520" width="609" height="755" frameX="-1" frameY="0" frameWidth="610" frameHeight="755"/>
+	<SubTexture name="Angry Hangry Right Pose0006" x="2380" y="1520" width="609" height="755" frameX="-1" frameY="0" frameWidth="610" frameHeight="755"/>
+	<SubTexture name="Angry Hangry Right Pose0007" x="2380" y="1520" width="609" height="755" frameX="-1" frameY="0" frameWidth="610" frameHeight="755"/>
+	<SubTexture name="Angry Hangry Right Pose0008" x="2989" y="1520" width="609" height="755" frameX="0" frameY="0" frameWidth="610" frameHeight="755"/>
+	<SubTexture name="Angry Hangry Right Pose0009" x="2989" y="1520" width="609" height="755" frameX="0" frameY="0" frameWidth="610" frameHeight="755"/>
+	<SubTexture name="Angry Hangry down pose0000" x="3598" y="1520" width="647" height="613" frameX="-10" frameY="-6" frameWidth="659" frameHeight="619"/>
+	<SubTexture name="Angry Hangry down pose0001" x="4245" y="1520" width="647" height="613" frameX="-10" frameY="-6" frameWidth="659" frameHeight="619"/>
+	<SubTexture name="Angry Hangry down pose0002" x="4892" y="1520" width="656" height="615" frameX="-3" frameY="-4" frameWidth="659" frameHeight="619"/>
+	<SubTexture name="Angry Hangry down pose0003" x="5548" y="1520" width="656" height="615" frameX="-3" frameY="-4" frameWidth="659" frameHeight="619"/>
+	<SubTexture name="Angry Hangry down pose0004" x="6204" y="1520" width="657" height="616" frameX="-2" frameY="-3" frameWidth="659" frameHeight="619"/>
+	<SubTexture name="Angry Hangry down pose0005" x="6861" y="1520" width="657" height="616" frameX="-2" frameY="-3" frameWidth="659" frameHeight="619"/>
+	<SubTexture name="Angry Hangry down pose0006" x="6861" y="1520" width="657" height="616" frameX="-2" frameY="-3" frameWidth="659" frameHeight="619"/>
+	<SubTexture name="Angry Hangry down pose0007" x="6204" y="1520" width="657" height="616" frameX="-2" frameY="-3" frameWidth="659" frameHeight="619"/>
+	<SubTexture name="Angry Hangry down pose0008" x="7518" y="1520" width="653" height="619" frameX="0" frameY="0" frameWidth="659" frameHeight="619"/>
+	<SubTexture name="Angry Hangry down pose0009" x="0" y="2275" width="653" height="619" frameX="0" frameY="0" frameWidth="659" frameHeight="619"/>
+	<SubTexture name="Angry Hangry left pose0000" x="653" y="2275" width="614" height="757" frameX="0" frameY="-2" frameWidth="634" frameHeight="759"/>
+	<SubTexture name="Angry Hangry left pose0001" x="653" y="2275" width="614" height="757" frameX="0" frameY="-2" frameWidth="634" frameHeight="759"/>
+	<SubTexture name="Angry Hangry left pose0002" x="1267" y="2275" width="614" height="759" frameX="-15" frameY="0" frameWidth="634" frameHeight="759"/>
+	<SubTexture name="Angry Hangry left pose0003" x="1267" y="2275" width="614" height="759" frameX="-15" frameY="0" frameWidth="634" frameHeight="759"/>
+	<SubTexture name="Angry Hangry left pose0004" x="1881" y="2275" width="613" height="759" frameX="-17" frameY="0" frameWidth="634" frameHeight="759"/>
+	<SubTexture name="Angry Hangry left pose0005" x="1881" y="2275" width="613" height="759" frameX="-17" frameY="0" frameWidth="634" frameHeight="759"/>
+	<SubTexture name="Angry Hangry left pose0006" x="2494" y="2275" width="613" height="759" frameX="-17" frameY="0" frameWidth="634" frameHeight="759"/>
+	<SubTexture name="Angry Hangry left pose0007" x="2494" y="2275" width="613" height="759" frameX="-17" frameY="0" frameWidth="634" frameHeight="759"/>
+	<SubTexture name="Angry Hangry left pose0008" x="3107" y="2275" width="613" height="757" frameX="-21" frameY="-2" frameWidth="634" frameHeight="759"/>
+	<SubTexture name="Angry Hangry left pose0009" x="3107" y="2275" width="613" height="757" frameX="-21" frameY="-2" frameWidth="634" frameHeight="759"/>
+	<SubTexture name="Angry Hangry up pose0000" x="3720" y="2275" width="540" height="767" frameX="-2" frameY="0" frameWidth="551" frameHeight="768"/>
+	<SubTexture name="Angry Hangry up pose0001" x="4260" y="2275" width="540" height="767" frameX="-2" frameY="0" frameWidth="551" frameHeight="768"/>
+	<SubTexture name="Angry Hangry up pose0002" x="4800" y="2275" width="546" height="751" frameX="0" frameY="-16" frameWidth="551" frameHeight="768"/>
+	<SubTexture name="Angry Hangry up pose0003" x="4800" y="2275" width="546" height="751" frameX="0" frameY="-16" frameWidth="551" frameHeight="768"/>
+	<SubTexture name="Angry Hangry up pose0004" x="5346" y="2275" width="548" height="746" frameX="0" frameY="-21" frameWidth="551" frameHeight="768"/>
+	<SubTexture name="Angry Hangry up pose0005" x="5346" y="2275" width="548" height="746" frameX="0" frameY="-21" frameWidth="551" frameHeight="768"/>
+	<SubTexture name="Angry Hangry up pose0006" x="5894" y="2275" width="548" height="746" frameX="0" frameY="-21" frameWidth="551" frameHeight="768"/>
+	<SubTexture name="Angry Hangry up pose0007" x="5894" y="2275" width="548" height="746" frameX="0" frameY="-21" frameWidth="551" frameHeight="768"/>
+	<SubTexture name="Angry Hangry up pose0008" x="6442" y="2275" width="550" height="746" frameX="-1" frameY="-22" frameWidth="551" frameHeight="768"/>
+	<SubTexture name="Angry Hangry up pose0009" x="6442" y="2275" width="550" height="746" frameX="-1" frameY="-22" frameWidth="551" frameHeight="768"/>
+	<SubTexture name="growl0000" x="6992" y="2275" width="623" height="760" frameX="-149" frameY="0" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0001" x="0" y="3042" width="623" height="760" frameX="-149" frameY="0" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0002" x="0" y="3042" width="623" height="760" frameX="-149" frameY="0" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0003" x="623" y="3042" width="616" height="730" frameX="-149" frameY="-31" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0004" x="1239" y="3042" width="616" height="730" frameX="-149" frameY="-31" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0005" x="1855" y="3042" width="626" height="719" frameX="-149" frameY="-42" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0006" x="2481" y="3042" width="626" height="719" frameX="-149" frameY="-42" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0007" x="3107" y="3042" width="626" height="719" frameX="-149" frameY="-42" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0008" x="3733" y="3042" width="628" height="717" frameX="-149" frameY="-44" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0009" x="4361" y="3042" width="628" height="717" frameX="-149" frameY="-44" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0010" x="4989" y="3042" width="628" height="717" frameX="-149" frameY="-44" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0011" x="5617" y="3042" width="628" height="717" frameX="-149" frameY="-44" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0012" x="6245" y="3042" width="619" height="718" frameX="-155" frameY="-43" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0013" x="6864" y="3042" width="834" height="707" frameX="0" frameY="-54" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0014" x="0" y="3802" width="834" height="707" frameX="0" frameY="-54" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0015" x="0" y="3802" width="834" height="707" frameX="0" frameY="-54" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0016" x="834" y="3802" width="795" height="709" frameX="-33" frameY="-52" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0017" x="834" y="3802" width="795" height="709" frameX="-33" frameY="-52" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0018" x="1629" y="3802" width="795" height="709" frameX="-33" frameY="-52" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0019" x="1629" y="3802" width="795" height="709" frameX="-33" frameY="-52" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0020" x="2424" y="3802" width="795" height="709" frameX="-33" frameY="-52" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0021" x="2424" y="3802" width="795" height="709" frameX="-33" frameY="-52" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0022" x="1629" y="3802" width="795" height="709" frameX="-33" frameY="-52" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0023" x="1629" y="3802" width="795" height="709" frameX="-33" frameY="-52" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0024" x="2424" y="3802" width="795" height="709" frameX="-33" frameY="-52" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl0025" x="2424" y="3802" width="795" height="709" frameX="-33" frameY="-52" frameWidth="834" frameHeight="761"/>
+	<SubTexture name="growl20000" x="3219" y="3802" width="642" height="760" frameX="0" frameY="0" frameWidth="643" frameHeight="760"/>
+	<SubTexture name="growl20001" x="3861" y="3802" width="642" height="760" frameX="0" frameY="0" frameWidth="643" frameHeight="760"/>
+	<SubTexture name="growl20002" x="4503" y="3802" width="643" height="756" frameX="0" frameY="-4" frameWidth="643" frameHeight="760"/>
+	<SubTexture name="growl20003" x="5146" y="3802" width="643" height="754" frameX="0" frameY="-6" frameWidth="643" frameHeight="760"/>
+	<SubTexture name="growl20004" x="5789" y="3802" width="641" height="754" frameX="-1" frameY="-6" frameWidth="643" frameHeight="760"/>
+	<SubTexture name="growl20005" x="6430" y="3802" width="641" height="754" frameX="-1" frameY="-6" frameWidth="643" frameHeight="760"/>
+	<SubTexture name="growl20006" x="6430" y="3802" width="641" height="754" frameX="-1" frameY="-6" frameWidth="643" frameHeight="760"/>
+	<SubTexture name="growl20007" x="7071" y="3802" width="641" height="754" frameX="-1" frameY="-6" frameWidth="643" frameHeight="760"/>
+	<SubTexture name="growl20008" x="7071" y="3802" width="641" height="754" frameX="-1" frameY="-6" frameWidth="643" frameHeight="760"/>
+	<SubTexture name="growl20009" x="0" y="4562" width="641" height="754" frameX="-1" frameY="-6" frameWidth="643" frameHeight="760"/>
+	<SubTexture name="growl20010" x="641" y="4562" width="641" height="754" frameX="-1" frameY="-6" frameWidth="643" frameHeight="760"/>
+	<SubTexture name="growl30000" x="1282" y="4562" width="643" height="759" frameX="-113" frameY="0" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30001" x="1925" y="4562" width="643" height="759" frameX="-113" frameY="0" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30002" x="2568" y="4562" width="643" height="729" frameX="-106" frameY="-31" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30003" x="3211" y="4562" width="643" height="729" frameX="-106" frameY="-31" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30004" x="3854" y="4562" width="653" height="719" frameX="-105" frameY="-41" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30005" x="4507" y="4562" width="653" height="719" frameX="-105" frameY="-41" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30006" x="5160" y="4562" width="653" height="719" frameX="-105" frameY="-41" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30007" x="5813" y="4562" width="656" height="717" frameX="-105" frameY="-43" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30008" x="6469" y="4562" width="656" height="717" frameX="-105" frameY="-43" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30009" x="7125" y="4562" width="656" height="717" frameX="-105" frameY="-43" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30010" x="0" y="5321" width="656" height="717" frameX="-105" frameY="-43" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30011" x="656" y="5321" width="656" height="717" frameX="-105" frameY="-43" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30012" x="5813" y="4562" width="656" height="717" frameX="-105" frameY="-43" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30013" x="1312" y="5321" width="656" height="717" frameX="-105" frameY="-43" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30014" x="1968" y="5321" width="656" height="717" frameX="-105" frameY="-43" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30015" x="2624" y="5321" width="646" height="718" frameX="-112" frameY="-42" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30016" x="3270" y="5321" width="816" height="707" frameX="0" frameY="-53" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30017" x="4086" y="5321" width="816" height="707" frameX="0" frameY="-53" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30018" x="4086" y="5321" width="816" height="707" frameX="0" frameY="-53" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30019" x="4902" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30020" x="4902" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30021" x="5697" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30022" x="6492" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30023" x="7287" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30024" x="0" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30025" x="795" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30026" x="5697" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30027" x="1590" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30028" x="7287" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30029" x="6492" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30030" x="795" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30031" x="0" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30032" x="1590" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30033" x="5697" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30034" x="6492" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30035" x="7287" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30036" x="0" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30037" x="795" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30038" x="5697" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30039" x="1590" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30040" x="7287" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30041" x="6492" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30042" x="795" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30043" x="0" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30044" x="1590" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30045" x="5697" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30046" x="6492" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30047" x="7287" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30048" x="0" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30049" x="795" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30050" x="5697" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+</TextureAtlas>
