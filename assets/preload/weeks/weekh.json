@@ -1,0 +1,27 @@
+{
+	"songs": [
+		["Playtime","hangry",[ 255, 60, 95 ]],
+		["Grr","hangry",[ 255, 60, 95 ]],
+		["Famished","hangry-famished",[ 255, 60, 95 ]],
+		["Satiety","hangry",[ 255, 60, 95 ]]
+	],
+
+	"weekCharacters": [
+		"hangry",
+		"bf",
+		"gf"
+	],
+
+	"weekBackground": "museum",
+
+	"storyName": "Three Course Meal",
+	"weekBefore": "tutorial",
+	"weekName": "weekh",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"freeplayColor": [ 146, 113, 253 ]
+
+
+}
