@@ -7,7 +7,7 @@ You must have [the most up-to-date version of Haxe](https://haxe.org/download/).
 ## Mod Credits:
 * AnaArtRose - Programmer, Artist, Animator, Charter
 * SaltedSporks - Composer, Co-artist
-* BoxxedBoi - Assistant Programmer
+* Boxxedboi - Assistant Programmer
 
 ## Betatester Credits:
 
