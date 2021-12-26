@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="AngryHangry_assets.png">
-	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="Angry Hangry Idle Dance0000" x="0" y="0" width="643" height="760" frameX="-2" frameY="0" frameWidth="691" frameHeight="760"/>
 	<SubTexture name="Angry Hangry Idle Dance0001" x="643" y="0" width="643" height="760" frameX="-2" frameY="0" frameWidth="691" frameHeight="760"/>
@@ -153,11 +153,11 @@
 	<SubTexture name="growl30041" x="6492" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
 	<SubTexture name="growl30042" x="795" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
 	<SubTexture name="growl30043" x="0" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
-	<SubTexture name="growl30044" x="1590" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
-	<SubTexture name="growl30045" x="5697" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
-	<SubTexture name="growl30046" x="6492" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
-	<SubTexture name="growl30047" x="7287" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
-	<SubTexture name="growl30048" x="0" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
-	<SubTexture name="growl30049" x="795" y="6039" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
-	<SubTexture name="growl30050" x="5697" y="5321" width="795" height="709" frameX="-17" frameY="-51" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30044" x="2385" y="6039" width="793" height="710" frameX="-17" frameY="-50" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30045" x="3178" y="6039" width="782" height="710" frameX="-28" frameY="-50" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30046" x="3178" y="6039" width="782" height="710" frameX="-28" frameY="-50" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30047" x="3960" y="6039" width="759" height="712" frameX="-48" frameY="-48" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30048" x="3960" y="6039" width="759" height="712" frameX="-48" frameY="-48" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30049" x="4719" y="6039" width="654" height="754" frameX="-103" frameY="-5" frameWidth="816" frameHeight="760"/>
+	<SubTexture name="growl30050" x="4719" y="6039" width="654" height="754" frameX="-103" frameY="-5" frameWidth="816" frameHeight="760"/>
 </TextureAtlas>
