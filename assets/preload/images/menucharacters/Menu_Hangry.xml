@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Hangry.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hangry dance idle black lines0000" x="0" y="0" width="304" height="370" frameX="0" frameY="0" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0001" x="0" y="0" width="304" height="370" frameX="0" frameY="0" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0002" x="0" y="0" width="304" height="370" frameX="0" frameY="0" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0003" x="304" y="0" width="307" height="370" frameX="0" frameY="0" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0004" x="304" y="0" width="307" height="370" frameX="0" frameY="0" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0005" x="304" y="0" width="307" height="370" frameX="0" frameY="0" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0006" x="611" y="0" width="312" height="369" frameX="-3" frameY="-1" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0007" x="923" y="0" width="311" height="369" frameX="-4" frameY="-1" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0008" x="1234" y="0" width="319" height="363" frameX="-7" frameY="-7" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0009" x="1234" y="0" width="319" height="363" frameX="-7" frameY="-7" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0010" x="1553" y="0" width="318" height="364" frameX="-6" frameY="-6" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0011" x="1553" y="0" width="318" height="364" frameX="-6" frameY="-6" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0012" x="0" y="370" width="316" height="368" frameX="-6" frameY="-2" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0013" x="316" y="370" width="317" height="368" frameX="-5" frameY="-2" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0014" x="633" y="370" width="315" height="369" frameX="-2" frameY="-1" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0015" x="948" y="370" width="304" height="370" frameX="0" frameY="0" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0016" x="948" y="370" width="304" height="370" frameX="0" frameY="0" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0017" x="948" y="370" width="304" height="370" frameX="0" frameY="0" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0018" x="1252" y="370" width="302" height="370" frameX="0" frameY="0" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0019" x="1252" y="370" width="302" height="370" frameX="0" frameY="0" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0020" x="1252" y="370" width="302" height="370" frameX="0" frameY="0" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0021" x="1554" y="370" width="301" height="370" frameX="0" frameY="0" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0022" x="0" y="740" width="299" height="370" frameX="-2" frameY="0" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0023" x="299" y="740" width="294" height="363" frameX="-2" frameY="-7" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0024" x="299" y="740" width="294" height="363" frameX="-2" frameY="-7" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0025" x="593" y="740" width="295" height="366" frameX="-2" frameY="-4" frameWidth="326" frameHeight="370"/>
+	<SubTexture name="hangry dance idle black lines0026" x="593" y="740" width="295" height="366" frameX="-2" frameY="-4" frameWidth="326" frameHeight="370"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "hangry dance idle black lines",
+	"idle_anim": "hangry dance idle black lines",
+	"position": [
+		38,
+		5
+	],
+	"scale": 1,
+	"image": "Menu_Hangry"
+}
