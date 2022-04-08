@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FloorBonus.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FloorBonus0000" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0001" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0002" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0003" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0004" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0005" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0006" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0007" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0008" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0009" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0010" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0011" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0012" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0013" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0014" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0015" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0016" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0017" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0018" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0019" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0020" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0021" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0022" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0023" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0024" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0025" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0026" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0027" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0028" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0029" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0030" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0031" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0032" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0033" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0034" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="FloorBonus0035" x="0" y="1400" width="2560" height="1400"/>
+</TextureAtlas>

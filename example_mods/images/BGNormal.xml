@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGNormal.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WallNormal0000" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0001" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0002" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0003" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0004" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0005" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0006" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0007" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0008" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0009" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0010" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0011" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0012" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0013" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0014" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0015" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0016" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0017" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0018" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="WallNormal0019" x="0" y="1400" width="2560" height="1400"/>
+</TextureAtlas>

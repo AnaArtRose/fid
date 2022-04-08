@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGBonus.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WallBonus0000" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0001" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0002" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0003" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0004" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0005" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0006" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0007" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0008" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0009" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0010" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0011" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0012" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0013" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0014" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0015" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0016" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0017" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0018" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0019" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0020" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0021" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0022" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0023" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0024" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0025" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0026" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0027" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0028" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0029" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0030" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0031" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0032" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0033" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0034" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="WallBonus0035" x="0" y="1400" width="2560" height="1400"/>
+</TextureAtlas>

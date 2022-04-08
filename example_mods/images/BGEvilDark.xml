@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGEvilDark.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WallEvilDark0000" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0001" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0002" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0003" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0004" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0005" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0006" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0007" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0008" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0009" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0010" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0011" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0012" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0013" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0014" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0015" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0016" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0017" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0018" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilDark0019" x="0" y="0" width="2560" height="1400"/>
+</TextureAtlas>
