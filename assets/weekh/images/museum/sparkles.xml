@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sparkles.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sparkles0000" x="0" y="0" width="2500" height="1891"/>
+	<SubTexture name="sparkles0001" x="0" y="0" width="2500" height="1891"/>
+	<SubTexture name="sparkles0002" x="0" y="0" width="2500" height="1891"/>
+	<SubTexture name="sparkles0003" x="0" y="0" width="2500" height="1891"/>
+	<SubTexture name="sparkles0004" x="2500" y="0" width="2500" height="1891"/>
+	<SubTexture name="sparkles0005" x="2500" y="0" width="2500" height="1891"/>
+	<SubTexture name="sparkles0006" x="2500" y="0" width="2500" height="1891"/>
+	<SubTexture name="sparkles0007" x="2500" y="0" width="2500" height="1891"/>
+	<SubTexture name="sparkles0008" x="5000" y="0" width="2500" height="1891"/>
+	<SubTexture name="sparkles0009" x="5000" y="0" width="2500" height="1891"/>
+	<SubTexture name="sparkles0010" x="5000" y="0" width="2500" height="1891"/>
+	<SubTexture name="sparkles0011" x="5000" y="0" width="2500" height="1891"/>
+</TextureAtlas>

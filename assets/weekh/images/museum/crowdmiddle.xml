@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowdmiddle.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crowdmiddle0000" x="0" y="0" width="2598" height="1965"/>
+	<SubTexture name="crowdmiddle0001" x="0" y="0" width="2598" height="1965"/>
+	<SubTexture name="crowdmiddle0002" x="0" y="0" width="2598" height="1965"/>
+	<SubTexture name="crowdmiddle0003" x="0" y="0" width="2598" height="1965"/>
+	<SubTexture name="crowdmiddle0004" x="2598" y="0" width="2598" height="1965"/>
+	<SubTexture name="crowdmiddle0005" x="2598" y="0" width="2598" height="1965"/>
+	<SubTexture name="crowdmiddle0006" x="2598" y="0" width="2598" height="1965"/>
+	<SubTexture name="crowdmiddle0007" x="2598" y="0" width="2598" height="1965"/>
+	<SubTexture name="crowdmiddle0008" x="5196" y="0" width="2598" height="1965"/>
+	<SubTexture name="crowdmiddle0009" x="5196" y="0" width="2598" height="1965"/>
+	<SubTexture name="crowdmiddle0010" x="5196" y="0" width="2598" height="1965"/>
+	<SubTexture name="crowdmiddle0011" x="5196" y="0" width="2598" height="1965"/>
+</TextureAtlas>

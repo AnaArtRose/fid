@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowdback.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crowdback0000" x="0" y="0" width="2500" height="1891"/>
+	<SubTexture name="crowdback0001" x="0" y="0" width="2500" height="1891"/>
+	<SubTexture name="crowdback0002" x="0" y="0" width="2500" height="1891"/>
+	<SubTexture name="crowdback0003" x="0" y="0" width="2500" height="1891"/>
+	<SubTexture name="crowdback0004" x="2500" y="0" width="2500" height="1891"/>
+	<SubTexture name="crowdback0005" x="2500" y="0" width="2500" height="1891"/>
+	<SubTexture name="crowdback0006" x="2500" y="0" width="2500" height="1891"/>
+	<SubTexture name="crowdback0007" x="2500" y="0" width="2500" height="1891"/>
+	<SubTexture name="crowdback0008" x="5000" y="0" width="2500" height="1891"/>
+	<SubTexture name="crowdback0009" x="5000" y="0" width="2500" height="1891"/>
+	<SubTexture name="crowdback0010" x="5000" y="0" width="2500" height="1891"/>
+	<SubTexture name="crowdback0011" x="5000" y="0" width="2500" height="1891"/>
+</TextureAtlas>

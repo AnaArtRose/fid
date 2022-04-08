@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGEvilG.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WallEvilG0000" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0001" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0002" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0003" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0004" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0005" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0006" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0007" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0008" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0009" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0010" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0011" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0012" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0013" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0014" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0015" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0016" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0017" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0018" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="WallEvilG0019" x="0" y="0" width="2560" height="1400"/>
+</TextureAtlas>
