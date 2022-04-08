@@ -214,6 +214,10 @@ class PlayState extends MusicBeatState
 	var bgGirls:BackgroundGirls;
 	var wiggleShit:WiggleEffect = new WiggleEffect();
 	var bgGhouls:BGSprite;
+	
+	var floor:BGSprite;
+	var catback:BGSprite;
+	var extra:BGSprite;
 
 	public var songScore:Int = 0;
 	public var songHits:Int = 0;
@@ -669,15 +673,6 @@ class PlayState extends MusicBeatState
 					bg.antialiasing = false;
 					add(bg);
 				}
-			/*case 'museum': //Week h - Playtime, Grr
-			var bg:BGSprite = new BGSprite('museum/bg', -600, -200, 0.9, 0.9);
-				add(bg);
-
-				var floor:BGSprite = new BGSprite('museum/floor', -650, 600, 0.9, 0.9);
-				floor.setGraphicSize(Std.int(floor.width * 1.1));
-				floor.updateHitbox();
-				add(floor);*/
-
 		}
 
 		if(isPixelStage) {
@@ -1139,6 +1134,16 @@ class PlayState extends MusicBeatState
 				case 'senpai' | 'roses' | 'thorns':
 					if(daSong == 'roses') FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
+
+				case 'playtime':
+					startVideo('HangryIntroAnimation');
+				case 'grr':
+					startVideo('GrrIntroAnimation');
+				case 'famished':
+					startVideo('FamishedIntroAnimation');
+				case 'satiety':
+					startVideo('SatietyIntroAnimation');
+					
 
 				default:
 					startCountdown();
