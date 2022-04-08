@@ -10,12 +10,12 @@ function onCreate()
 	setLuaSpriteScrollFactor('floor',1.0,0.9);
 	close(true);
 
-	makeAnimatedLuaSprite('fadeIn','vignette',-600,-300);
+	makeAnimatedLuaSprite('fadeIn','vignetteIn',-600,-300);
 	addAnimationByPrefix('fadeIn', 'normal', 'VignetteIn', 24, true);
 	objectPlayAnimation('fadeIn', 'normal',false);
 	setLuaSpriteScrollFactor('fadeIn',0.9,0.9);
 
-	makeAnimatedLuaSprite('fadeOut','vignette',-600,-300);
+	makeAnimatedLuaSprite('fadeOut','vignetteOut',-600,-300);
 	addAnimationByPrefix('fadeOut', 'normal', 'VignetteOut', 24, true);
 	objectPlayAnimation('fadeOut', 'normal',false);
 	setLuaSpriteScrollFactor('fadeOut',0.9,0.9);
