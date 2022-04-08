@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lanterns.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lanterns0000" x="0" y="0" width="2595" height="1963"/>
+	<SubTexture name="lanterns0001" x="0" y="0" width="2595" height="1963"/>
+	<SubTexture name="lanterns0002" x="0" y="0" width="2595" height="1963"/>
+	<SubTexture name="lanterns0003" x="0" y="0" width="2595" height="1963"/>
+	<SubTexture name="lanterns0004" x="2595" y="0" width="2595" height="1963"/>
+	<SubTexture name="lanterns0005" x="2595" y="0" width="2595" height="1963"/>
+	<SubTexture name="lanterns0006" x="2595" y="0" width="2595" height="1963"/>
+	<SubTexture name="lanterns0007" x="2595" y="0" width="2595" height="1963"/>
+	<SubTexture name="lanterns0008" x="5190" y="0" width="2595" height="1963"/>
+	<SubTexture name="lanterns0009" x="5190" y="0" width="2595" height="1963"/>
+	<SubTexture name="lanterns0010" x="5190" y="0" width="2595" height="1963"/>
+	<SubTexture name="lanterns0011" x="5190" y="0" width="2595" height="1963"/>
+</TextureAtlas>
