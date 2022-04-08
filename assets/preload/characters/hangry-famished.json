@@ -25,19 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-27,
-				-7
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
 				0,
-				12
+				16
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -45,15 +34,26 @@
 			"indices": []
 		},
 		{
-			"loop": true,
+			"loop": false,
+			"offsets": [
+				-27,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 24,
-			"name": "Idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
 		},
 		{
 			"offsets": [
@@ -69,7 +69,7 @@
 		{
 			"offsets": [
 				0,
-				-15
+				-12
 			],
 			"indices": [],
 			"fps": 24,
@@ -79,7 +79,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Famished_dance",
+	"image": "characters/Famished_dance2",
 	"position": [
 		-220,
 		30
