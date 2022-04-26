@@ -8,7 +8,7 @@ You must have [the most up-to-date version of Haxe](https://haxe.org/download/).
 * AnaArtRose - Programmer, Artist, Animator, Charter
 * SaltedSporks - Composer, Co-artist
 * Boxxedboi - 
-* Fraze - 
+* FrazeRIP - 
 
 ## Betatester Credits:
 
