@@ -1,59 +1,70 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				12
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "Hangry up pose",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Hangry up pose"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				56,
 				-156
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "Hangry down pose",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Hangry down pose"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-38,
 				0
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Hangry Right Pose",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Hangry Right Pose"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				47,
 				0
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "Hangry left pose",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Hangry left pose"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 24,
-			"name": "Hangry Idle Dance",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Hangry Idle Dance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "bow",
+			"loop": false,
+			"name": "Hangry bow"
 		}
 	],
 	"no_antialiasing": false,
