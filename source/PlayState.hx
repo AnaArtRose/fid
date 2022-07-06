@@ -214,10 +214,6 @@ class PlayState extends MusicBeatState
 	var bgGirls:BackgroundGirls;
 	var wiggleShit:WiggleEffect = new WiggleEffect();
 	var bgGhouls:BGSprite;
-	
-	var floor:BGSprite;
-	var catback:BGSprite;
-	var extra:BGSprite;
 
 	public var songScore:Int = 0;
 	public var songHits:Int = 0;
@@ -264,13 +260,6 @@ class PlayState extends MusicBeatState
 	
 	// Less laggy controls
 	private var keysArray:Array<Dynamic>;
-
-
-	//------------------------------------------------
-	//Fraze is here, get out of the way!
-	public var camZoomAmount:Float = 0.05;
-	public var camZoomRate:Int = 4;
-	//--------------------------------------------------
 
 	override public function create()
 	{
@@ -680,6 +669,15 @@ class PlayState extends MusicBeatState
 					bg.antialiasing = false;
 					add(bg);
 				}
+			/*case 'museum': //Week h - Playtime, Grr
+			var bg:BGSprite = new BGSprite('museum/bg', -600, -200, 0.9, 0.9);
+				add(bg);
+
+				var floor:BGSprite = new BGSprite('museum/floor', -650, 600, 0.9, 0.9);
+				floor.setGraphicSize(Std.int(floor.width * 1.1));
+				floor.updateHitbox();
+				add(floor);*/
+
 		}
 
 		if(isPixelStage) {
@@ -1141,16 +1139,6 @@ class PlayState extends MusicBeatState
 				case 'senpai' | 'roses' | 'thorns':
 					if(daSong == 'roses') FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
-
-				case 'playtime':
-					startVideo('HangryIntroAnimation');
-				case 'grr':
-					startVideo('GrrIntroAnimation');
-				case 'famished':
-					startVideo('FamishedIntroAnimation');
-				case 'satiety':
-					startVideo('SatietyIntroAnimation');
-					
 
 				default:
 					startCountdown();
@@ -1867,7 +1855,7 @@ class PlayState extends MusicBeatState
 		var earlyTime2:Float = eventNoteEarlyTrigger(Obj2);
 		return FlxSort.byValues(FlxSort.ASCENDING, Obj1[0] - earlyTime1, Obj2[0] - earlyTime2);
 	}
-
+	public var skipArrowStartTween:Bool = false; //for lua
 	private function generateStaticArrows(player:Int):Void
 	{
 		for (i in 0...4)
@@ -1877,7 +1865,7 @@ class PlayState extends MusicBeatState
 			if (player < 1 && ClientPrefs.middleScroll) targetAlpha = 0.35;
 
 			var babyArrow:StrumNote = new StrumNote(ClientPrefs.middleScroll ? STRUM_X_MIDDLESCROLL : STRUM_X, strumLine.y, i, player);
-			if (!isStoryMode)
+			if (!isStoryMode && !skipArrowStartTween)
 			{
 				babyArrow.y -= 10;
 				babyArrow.alpha = 0;
@@ -2329,8 +2317,8 @@ class PlayState extends MusicBeatState
 
 		if (camZooming)
 		{
-			//FlxG.camera.zoom = FlxMath.lerp(defaultCamZoom, FlxG.camera.zoom, CoolUtil.boundTo(1 - (elapsed * 3.125), 0, 1));
-			//camHUD.zoom = FlxMath.lerp(1, camHUD.zoom, CoolUtil.boundTo(1 - (elapsed * 3.125), 0, 1));
+			FlxG.camera.zoom = FlxMath.lerp(defaultCamZoom, FlxG.camera.zoom, CoolUtil.boundTo(1 - (elapsed * 3.125), 0, 1));
+			camHUD.zoom = FlxMath.lerp(1, camHUD.zoom, CoolUtil.boundTo(1 - (elapsed * 3.125), 0, 1));
 		}
 
 		FlxG.watch.addQuick("beatShit", curBeat);
@@ -4152,11 +4140,10 @@ class PlayState extends MusicBeatState
 		{
 			moveCameraSection(Std.int(curStep / 16));
 		}
-		
-		if (camZooming && FlxG.camera.zoom < 1.35 && ClientPrefs.camZooms && curBeat % camZoomRate == 0)
+		if (camZooming && FlxG.camera.zoom < 1.35 && ClientPrefs.camZooms && curBeat % 4 == 0)
 		{
-			//FlxG.camera.zoom += 0.015;
-			//camHUD.zoom += camZoomAmount;
+			FlxG.camera.zoom += 0.015;
+			camHUD.zoom += 0.03;
 		}
 
 		iconP1.scale.set(1.2, 1.2);
