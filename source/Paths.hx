@@ -144,6 +144,24 @@ class Paths
 		return 'assets/videos/$key.$VIDEO_EXT';
 	}
 
+	static public function sound(key:String, ?library:String):Sound
+	{
+		var sound:Sound = returnSound('sounds', key, library);
+		return sound;
+	}
+
+	inline static public function soundRandom(key:String, min:Int, max:Int, ?library:String)
+	{
+		return sound(key + FlxG.random.int(min, max), library);
+	}
+
+	inline static public function music(key:String, ?library:String):Sound
+	{
+		var file:Sound = returnSound('music', key, library);
+		return file;
+	}
+
+	/*
 	static public function sound(key:String, ?library:String):Dynamic
 	{
 		#if MODS_ALLOWED
@@ -175,8 +193,23 @@ class Paths
 		}
 		#end
 		return getPath('music/$key.$SOUND_EXT', MUSIC, library);
+	}*/
+
+	inline static public function voices(song:String):Any
+	{
+		var songKey:String = '${formatToSongPath(song)}/Voices';
+		var voices = returnSound('songs', songKey);
+		return voices;
 	}
 
+	inline static public function inst(song:String):Any
+	{
+		var songKey:String = '${formatToSongPath(song)}/Inst';
+		var inst = returnSound('songs', songKey);
+		return inst;
+	}
+
+	/*
 	inline static public function voices(song:String):Any
 	{
 		#if MODS_ALLOWED
@@ -186,8 +219,9 @@ class Paths
 		}
 		#end
 		return 'songs:assets/songs/${song.toLowerCase().replace(' ', '-')}/Voices.$SOUND_EXT';
-	}
+	}*/
 
+	/*
 	inline static public function inst(song:String):Any
 	{
 		#if MODS_ALLOWED
@@ -197,8 +231,42 @@ class Paths
 		}
 		#end
 		return 'songs:assets/songs/${song.toLowerCase().replace(' ', '-')}/Inst.$SOUND_EXT';
+	}*/
+
+	public static var localTrackedAssets:Array<String> = [];
+	public static var currentTrackedAssets:Map<String, FlxGraphic> = [];
+	public static var currentTrackedSounds:Map<String, Sound> = [];
+	public static function returnSound(path:String, key:String, ?library:String) {
+		#if MODS_ALLOWED
+		var file:String = modsSounds(path, key);
+		if(FileSystem.exists(file)) {
+			if(!currentTrackedSounds.exists(file)) {
+				currentTrackedSounds.set(file, Sound.fromFile(file));
+			}
+			localTrackedAssets.push(key);
+			return currentTrackedSounds.get(file);
+		}
+		#end
+		// I hate this so god damn much
+		var gottenPath:String = getPath('$path/$key.$SOUND_EXT', SOUND, library);
+		gottenPath = gottenPath.substring(gottenPath.indexOf(':') + 1, gottenPath.length);
+		// trace(gottenPath);
+		if(!currentTrackedSounds.exists(gottenPath))
+		#if MODS_ALLOWED
+			currentTrackedSounds.set(gottenPath, Sound.fromFile('./' + gottenPath));
+		#else
+		{
+			var folder:String = '';
+			if(path == 'songs') folder = 'songs:';
+
+			currentTrackedSounds.set(gottenPath, OpenFlAssets.getSound(folder + getPath('$path/$key.$SOUND_EXT', SOUND, library)));
+		}
+		#end
+		localTrackedAssets.push(gottenPath);
+		return currentTrackedSounds.get(gottenPath);
 	}
 
+	/*
 	#if MODS_ALLOWED
 	inline static private function returnSongFile(file:String):Sound
 	{
@@ -211,6 +279,7 @@ class Paths
 		return null;
 	}
 	#end
+	*/
 
 	inline static public function image(key:String, ?library:String):Dynamic
 	{
@@ -353,8 +422,8 @@ class Paths
 		return modFolders('music/' + key + '.' + SOUND_EXT);
 	}
 
-	inline static public function modsSounds(key:String) {
-		return modFolders('sounds/' + key + '.' + SOUND_EXT);
+	inline static public function modsSounds(path:String, key:String) {
+		return modFolders(path + '/' + key + '.' + SOUND_EXT);
 	}
 
 	inline static public function modsSongs(key:String) {

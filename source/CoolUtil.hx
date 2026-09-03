@@ -5,6 +5,7 @@ import openfl.utils.Assets;
 import lime.utils.Assets as LimeAssets;
 import lime.utils.AssetLibrary;
 import lime.utils.AssetManifest;
+import flixel.sound.FlxSound;
 #if sys
 import sys.io.File;
 import sys.FileSystem;
@@ -116,9 +117,7 @@ class CoolUtil
 
 	//uhhhh does this even work at all? i'm starting to doubt
 	public static function precacheSound(sound:String, ?library:String = null):Void {
-		if(!Assets.cache.hasSound(Paths.sound(sound, library))) {
-			FlxG.sound.cache(Paths.sound(sound, library));
-		}
+		Paths.sound(sound, library);
 	}
 
 	public static function browserLoad(site:String) {
