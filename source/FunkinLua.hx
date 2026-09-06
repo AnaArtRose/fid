@@ -1086,10 +1086,15 @@ class FunkinLua {
 			}
 		});
 		Lua_helper.add_callback(lua, "startVideo", function(videoFile:String) {
+			trace("going here béfore video");
 			#if VIDEOS_ALLOWED
+			trace("going here before video 2");
+			trace(videoFile);
 			if(FileSystem.exists(Paths.video(videoFile))) {
+				trace("going here before video 3");
 				PlayState.instance.startVideo(videoFile);
 			} else {
+				trace("going here before video 4");
 				luaTrace('Video file not found: ' + videoFile);
 			}
 			#else
