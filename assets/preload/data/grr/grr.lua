@@ -116,8 +116,8 @@ function onStepHit()
 	doTweenColor('RedGoDark', 'RedGoBrrrrrr', '000000', .00001, 'linear')
 	doTweenAlpha('LightOff', 'RedGoBrrrrrr', 0, 0.001, 'linear')
 	doTweenAlpha('LightDFOff', 'RedGoBrrrrrr', 0.8, beatLength*2, 'linear')
-	doTweenColor('HangryGotMad', 'dad', 'BA8CBA', beatLength*2, 'linear')
-	doTweenColor('GFInBlood', 'gf', 'FF7B7B', beatLength*2, 'linear')
+	--doTweenColor('HangryGotMad', 'dad', 'BA8CBA', beatLength*2, 'linear')
+	--doTweenColor('GFInBlood', 'gf', 'FF7B7B', beatLength*2, 'linear')
 	--doTweenZoom("LetsGOOOO", "camGame", .8, beatLength*4, 'smoothStepOut')
 	end
 
@@ -139,8 +139,8 @@ function onStepHit()
 
 	if curStep == 576 then
 	doTweenAlpha('LightOn', 'RedGoBrrrrrr', 0, beatLength*2, 'linear')
-	doTweenColor('HangryGotMad', 'dad', 'FFFFFF', beatLength*2, 'linear')
-	doTweenColor('GFInBlood', 'gf', 'FFFFFF', beatLength*2, 'linear')
+	--doTweenColor('HangryGotMad', 'dad', 'FFFFFF', beatLength*2, 'linear')
+	--doTweenColor('GFInBlood', 'gf', 'FFFFFF', beatLength*2, 'linear')
 	end
 	
 	if curStep == 593 then
@@ -194,8 +194,8 @@ function onStepHit()
 
 	if curStep == 976 then
 	doTweenAlpha('LightDFOff', 'RedGoBrrrrrr', 0.8, beatLength*2, 'linear')
-	doTweenColor('BBF', 'boyfriend', '7B9AFF', beatLength*2, 'linear')
-	doTweenColor('GFInBlood', 'gf', 'FF7B7B', beatLength*2, 'linear')
+	--doTweenColor('BBF', 'boyfriend', '7B9AFF', beatLength*2, 'linear')
+	--doTweenColor('GFInBlood', 'gf', 'FF7B7B', beatLength*2, 'linear')
 	doTweenZoom("Moreeee", "camGame", .75, beatLength, 'smoothStepOut')
 	end
 
@@ -216,8 +216,8 @@ function onStepHit()
 	if curStep == 1036 then
 	doTweenAlpha('LightOn', 'RedGoBrrrrrr', 0, beatLength*2, 'linear')
 	doTweenZoom("LetsGOOOO", "camGame", 0.7, beatLength*2.5, 'smoothStepOut')
-	doTweenColor('BBF', 'boyfriend', 'FFFFFF', beatLength*2, 'linear')
-	doTweenColor('GFInBlood', 'gf', 'FFFFFF', beatLength*2, 'linear')
+	--doTweenColor('BBF', 'boyfriend', 'FFFFFF', beatLength*2, 'linear')
+	--doTweenColor('GFInBlood', 'gf', 'FFFFFF', beatLength*2, 'linear')
 	cameraBounceRate = 16
 	FunniCamera(true)
 	end
